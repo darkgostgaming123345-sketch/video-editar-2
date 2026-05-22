@@ -1,0 +1,10 @@
+{
+  "name": "AURA VIDEO EDITER",
+  "description": "A professional-grade, desktop-designed video editor featuring multi-track timeline editing, dynamic canvas rendering, and AI-powered workflow automation including script assistants, auto-captions, and voice generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
